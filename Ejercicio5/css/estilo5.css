@@ -1,0 +1,40 @@
+h2 {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.vacio{
+    list-style-type: none;
+}
+
+.relleno {
+    list-style-type: disc;
+}
+
+.contorno {
+    list-style-type: circle;
+}
+
+.cuadrado {
+    list-style-type: square;
+}
+
+.numeral {
+    list-style-type: decimal;
+}
+
+.romano_minuscula {
+    list-style-type: lower-roman;
+}
+
+.romano_mayuscula {
+    list-style-type: upper-roman;
+}
+
+.minusculas {
+    list-style-type: lower-alpha;
+}
+
+.mayusculas {
+    list-style-type: upper-alpha;
+}

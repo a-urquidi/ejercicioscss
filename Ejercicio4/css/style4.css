@@ -1,0 +1,33 @@
+.materia {
+    background-color: #11AABB;
+    border-width: 1px;  /* Unidad de Medida: px, %, etc. */
+    border-style: solid;
+    border-color: #660000;
+}
+
+.nom_mat {
+    border-width: 2px;
+    border-style: dotted;
+}
+
+.pie_pagina {
+    background-color:#ffffcc;
+    text-align:center;
+    font-family:verdana;
+    font-size:40px;
+
+    border-top-width:1px;       /* Ancho de borde superior. */
+    border-right-width:3px;     /* Ancho de borde derecho. */
+    border-bottom-width:3px;    /* Ancho de borde inferior. */
+    border-left-width:1px;      /* Ancho de borde izquierdo. */
+
+    border-top-style:dotted;    /* Estilo de borde superior. */
+    border-right-style:solid;   /* Estilo de borde derecho. */
+    border-bottom-style:solid;  /* Estilo de borde inferior. */
+    border-left-style:dotted;   /* Estilo de borde izquierdo. */
+
+    border-top-color:#ffaa00;
+    border-right-color:#ff0000;
+    border-bottom-color:#ff0000;
+    border-left-color:#ffaa00;
+}

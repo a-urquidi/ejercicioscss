@@ -1,0 +1,10 @@
+/* Estilos para el encabezado. */
+h1 {    /* Referencia por etiqueta: h1 */
+    color: darkcyan;
+}
+
+/* Estilos para el párrafo. */
+p {
+    color: white;
+    background-color: deepskyblue;
+}
